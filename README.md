@@ -34,7 +34,7 @@ end
 
 Now we have a method name that expresses the job or responsibility of the code it contains *and* we have a way to re-use the same bit of code again and again, throughout our program, simply by calling the method. 
 
-Repetition and abstraction in programming go hand-in-hand. It's hard to imagine a program that must carry out a certain responsibilty or do a certain job *only once*.
+Repetition and abstraction in programming go hand-in-hand. It's hard to imagine a program that must carry out a certain responsibility or do a certain job *only once*.
 
 You might be writing code for a game that must ask the user for input again and again, until they either win or lose. You might need to send a user of a web application updates about their account repeatedly. You might need to do something as simple as `puts` out some text to the terminal a specified number of times. 
 
